@@ -19,6 +19,7 @@
 | 6abf6850-9a3b-4481-856b-fd80e47da2dc | e268fb3b-7839-4f16-a5ac-5443da208749 | 2023-04-15 | Board Deck | https://dummy-docs.s3.amazonaws.com/6abf6850-9a3b-4481-856b-fd80e47da2dc.pdf | Board meeting for Company1 held on 2023-04-15 discussing quarterly updates and strategy. | Q2 2023, strategy, finance |
 
 ---
+📊 KPIs
 
 | **KPI ID**                           | **Company ID**                       | **Meeting ID**                       | **Label** | **Value** | **Type** | **Date**   |
 | ------------------------------------ | ------------------------------------ | ------------------------------------ | --------- | --------- | -------- | ---------- |
